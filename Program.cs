@@ -26,16 +26,16 @@
         switch (salario)
         {
             case "1" :
-                salarioDiario(hrDiaria, valorHr);
+                salarioDiario(hrDiaria, valorHr, nome);
                 break;
             case "2" :
-                salarioSemanal(hrDiaria, valorHr);
+                salarioSemanal(hrDiaria, valorHr, nome);
                 break;
             case "3" :
-                salarioMensal(hrDiaria, valorHr);
+                salarioMensal(hrDiaria, valorHr, nome);
                 break;
              case "4" :
-                salarioAnual(hrDiaria, valorHr);
+                salarioAnual(hrDiaria, valorHr, nome);
                 break;                      
             default:
                 Console.WriteLine("Opção inválida, por favor escola uma opção válida");
@@ -71,6 +71,6 @@
     static void salarioAnual(int hrDiaria, int valorHr, string nome)
     {
         int res = (hrDiaria * valorHr) * 240;
-        Console.WriteLine($"{nome} O seu salário semanal é R${res:F2}\n");
+        Console.WriteLine($"{nome}, o seu salário semanal é R${res:F2}\n");
     }
 }
