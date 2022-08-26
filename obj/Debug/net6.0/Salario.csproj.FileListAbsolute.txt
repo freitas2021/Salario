@@ -1,0 +1,15 @@
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\Salario.csproj.AssemblyReference.cache
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\Salario.AssemblyInfoInputs.cache
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\Salario.AssemblyInfo.cs
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\Salario.csproj.CoreCompileInputs.cache
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\bin\Debug\net6.0\Salario.exe
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\bin\Debug\net6.0\Salario.deps.json
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\bin\Debug\net6.0\Salario.runtimeconfig.json
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\bin\Debug\net6.0\Salario.dll
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\bin\Debug\net6.0\Salario.pdb
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\Salario.dll
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\refint\Salario.dll
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\Salario.pdb
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\Salario.genruntimeconfig.cache
+C:\Users\Gerencial R-47\Desktop\Gama Academy\Salario\obj\Debug\net6.0\ref\Salario.dll
