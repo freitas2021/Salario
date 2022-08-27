@@ -4,17 +4,18 @@
     {
         string nome;
         string salario;
-        int valorHr = 80;
+        int valorHr;
         int hrDiaria;
         bool controler = true;
         
 
        
-        Console.WriteLine("Seja bem vindo, por favor seu nome: ");
+        Console.WriteLine("Seja bem vindo, por favor digite seu nome: ");
         nome = Console.ReadLine();
         Console.WriteLine($"{nome}. Digite quantas horas deseja trabalhar diariamente: ");
         hrDiaria = Convert.ToInt32(Console.ReadLine());
-        
+        Console.WriteLine($"{nome}. Qual é o valor da sua hora trabalhada?: ");
+        valorHr = Convert.ToInt32(Console.ReadLine());
 
         while(controler)
         {
